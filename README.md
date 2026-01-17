@@ -14,7 +14,7 @@
 ![PinkSky](https://github.com/user-attachments/assets/d8a3921d-ff26-4d3f-adac-e3c0e8052d93)
 <p align="right"> source: darksky.org
 
-### *FYI: This platform (GitHub) will be documenting my journey in university through assignments, projects and also personal thoughts on every event I joined.*
+#### *FYI: This platform (GitHub) will be documenting my journey in university through assignments, projects and also personal thoughts on every event I joined.*
 <!--
 **EmilyEnnn/EmilyEnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
