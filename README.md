@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Emily Tai Pei En ✨
 ### 🌱 I’m currently taking degrees in Computer Sciences in Bioinformatics as a first year student. 
 ### ⭐ I'm pursuing my studies in University of Technology Malaysia.
-### 💬 My skills: Drawing, Painting, Research, Communication
+### 💬 My skills: Drawing, Painting, Research, Communication, Teamwork
 ### 📫 How to reach me: emilytaipei@graduate.utm.my
 ### 😄 Programming language that I use: C++
 ### ⚡ Fun fact: I'm a person who really into desserts and matcha!
