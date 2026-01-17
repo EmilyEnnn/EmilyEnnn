@@ -4,7 +4,7 @@
 ### _Contact Me📫_
 #### 1. Email address: emilytaipei@graduate.utm.my <br> 2. LinkedIn: https://www.linkedin.com/in/emily-tai-pei-en-2870b1337/ <br> 3. GitHub: https://github.com/EmilyEnnn <br>
 ### _My Skills💡_
-#### - Programming language used: C++ <br> - Video editting <br> - Poster designing <br> - Team collaboration <br> - Good communication <br> - Critical thinking <br> 
+#### - Programming language used: C++ <br> - Video editing <br> - Poster designing <br> - Team collaboration <br> - Good communication <br> - Critical thinking <br> 
 ### _Awards Received Lately🏆_
  * #### 3D SketchUp Competition 2024 in National State - Second Runner-Up🥉
  * #### ASEAN Data Science Explorers 2024 Category F6 in National State - First Place🥇 
