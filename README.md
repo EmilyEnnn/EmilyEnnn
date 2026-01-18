@@ -1,7 +1,7 @@
 # Hi there 🙌 My name is *Emily Tai Pei En* ✨
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F5cTZ3cGszejBiZWQxOWpzMXpsbmFiZ3dpMHN6NzBkZXA5dzNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYblQbWbVCtdMVH7tZ/giphy.gif)
 ## _About Me😆_
-#### 📍 I'm based in Melaka Tengah, Melaka, Malaysia. <br>🌱 Currently taking Degree in Computer Sciences (Bioinformatics) as a first year student. <br>⭐ Pursuing my studies in University of Technology Malaysia. <br>💬 My skills are drawing, painting, good communication, team collaboration and time management. <br> 🏫 Education background: STPM <br> 📕 Posiotion hold in secondary school: Vice President of librarian <br> 📗 Position hold in Form 6 College: Treasurer of librarian <br>
+#### 📍 I'm based in Melaka, Malaysia. <br>🌱 Currently taking Degree in Computer Sciences (Bioinformatics) as a first year student. <br>⭐ Pursuing my studies in University of Technology Malaysia. <br>💬 My skills are drawing, painting, good communication, team collaboration and time management. <br> 🏫 Education background: STPM <br> 📕 Posiotion hold in secondary school: Vice President of librarian <br> 📗 Position hold in Form 6 College: Treasurer of librarian <br>
 
 ## _Connect with Me📫_
 <p align="left">
