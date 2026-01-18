@@ -17,7 +17,7 @@
  * #### 3D SketchUp Competition 2024 in National Level - Second Runner-Up🥉
  * #### ASEAN Data Science Explorers 2024 Category F6 in National Level - First Place🥇 
 ## _Fun Facts⚡_
-#### Before I pursued my degree, I used to be a biology student. Now, it is my new opportunity to explore computer science in my coming 4 years. I wish I could adapt to this new field and become someone who is an expert in coding. Last but not least, I'm a person who's really into desserts and matcha!😋 <br> Anyway, nice to meet you all! <br> 
+#### Before I pursued my degree, I used to be a biology student. Now, it is my new opportunity to explore computer science in my coming 4 years. I wish I could adapt to this new field and become someone who is an expert in coding. Last but not least, I'm a person who's really into desserts and matcha!😋 Nice to meet you! <br> 
 
 ![PinkSky](https://github.com/user-attachments/assets/d8a3921d-ff26-4d3f-adac-e3c0e8052d93)
 <p align="right"> source: darksky.org
