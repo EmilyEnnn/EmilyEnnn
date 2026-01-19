@@ -15,7 +15,8 @@
 #### - Programming language used: C++ <br> - Drawing and Painting <br> - Poster design <br> - Team collaboration <br> - Good communication <br> - Critical thinking <br> 
 ## _Awards Received Lately🏆_
  * #### 3D SketchUp Competition 2024 in National Level - Second Runner-Up🥉
- * #### ASEAN Data Science Explorers 2024 Category F6 in National Level - First Place🥇 
+ * #### ASEAN Data Science Explorers 2024 Category F6 in National Level - First Place🥇
+ * #### Frisbee Disc Design Competition 2024 in State Level - Second Runner-Up🥉
 ## _Fun Facts⚡_
 #### Before I pursued my degree, I used to be a biology student. Now, it is my new opportunity to explore computer science in my coming 4 years. I wish I could adapt to this new field and become someone who is an expert in coding. Last but not least, I'm a person who's really into desserts and matcha!😋 Nice to meet you! <br> 
 
