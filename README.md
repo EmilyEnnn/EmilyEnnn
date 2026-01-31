@@ -24,7 +24,6 @@
 
 #### *FYI: This platform (GitHub) will be documenting my journey in university and share my personal thoughts on every event I joined.*
 
-![](https://komarev.com/ghpvc/?username=EmilyEnnn)
 
 
 <!--
