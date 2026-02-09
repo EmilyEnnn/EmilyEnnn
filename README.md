@@ -22,7 +22,6 @@
 ![PinkSky](https://github.com/user-attachments/assets/d8a3921d-ff26-4d3f-adac-e3c0e8052d93)
 <p align="right"> source: darksky.org
 
-#### *FYI: This platform (GitHub) will be documenting my journey in university and share my personal thoughts on every event I joined.*
 
 
 
